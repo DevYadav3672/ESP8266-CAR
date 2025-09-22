@@ -1,10 +1,7 @@
 #  ESP8266-CAR: WiFi Controlled All-Wheel Drive Robot Car
 
-BASIC INFORMATION :
-This car is an all wheel drive car working on arduino uno , 2 L298N motor drivers , ESP8266 for wireless data reciver , 4 Motors.
-
 PROJECT OVEREVIEW :
-The ESP8266-CAR is an all-wheel drive robotic car controlled wirelessly via a mobile app. It demonstrates practical integration of Arduino Uno, ESP8266 WiFi module, and dual L298N motor drivers to create a fully controllable robotic vehicle. 
+The ESP8266-CAR is an all-wheel drive robotic car controlled wirelessly via a mobile app. It demonstrates integration of Arduino Uno, ESP8266 WiFi module, and dual L298N motor drivers to create a fully controllable robotic vehicle. 
 
 I am using "ESP8266 WiFi Robot Car" to send signal from mobile to ESP8266 , with help of code i have filtered raw data coming from mobile.
 
