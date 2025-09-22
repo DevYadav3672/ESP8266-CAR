@@ -11,7 +11,7 @@ I am using "ESP8266 WiFi Robot Car" to send signal from mobile to ESP8266 , with
 Here ESP8266 is used to recive wireless data from mobile and then i have trasferd this data to the arduino uno and their arduino uno is controlling the Motor driver on the basis of data given by ESP8266 , i have used Serial communication to treansfer data from ESP8266 to Arduino uno.
 
 WORKING OF EVERY COMPONENTS :
-1. Mobile App: Sends commands (`F`, `B`, `L`, `R`, `S`) via WiFi.  
+1. Mobile App: Sends commands ('F', 'B', 'L', 'R', 'S') via WiFi.  
 2. ESP8266: Receives raw data and filters it to a single character command.  
 3. Arduino Uno: Reads the character via Serial communication, interprets the command, and controls the motor drivers accordingly.  
 4. L298N Motor Drivers: Drive the four DC motors to move the car forward, backward, left, right, or stop. 
