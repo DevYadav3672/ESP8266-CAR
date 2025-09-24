@@ -19,4 +19,32 @@ COMPONENTS :
 - Motor Drivers: 2 × L298N  
 - Motors: 4 × DC motors   
 - Battery: 12V Li-ion battery (power motors and Arduino)  
-- Mobile App: ESP8266 WiFi Robot Car  
+- Mobile App: ESP8266 WiFi Robot Car
+
+  PURPOSE TO BUILD THIS PROJECT :
+- I have made this project to learn WiFi communicate and control actuators with ESP8266 by hosting a local server , i have host a local server using ESP8266 to send and recive wireless data from a mobile phone.
+- secondly i have made learned how to control DC motors by L298N(motor driver).
+- also i learn how to send and recive data between ESP826 and arduino UNO by Serial communication.
+
+  ISSUESS DURING THIS PROJECT :
+(1) i have not used any servo motors to turn the motor/wheel's direction it was a big issue becaues car was moving forward and backward but not taking turn.
+
+(2) second issue is ,i have used two chassis for thi project due to higher diameter of wheels so the overall lngth of car get increased , when first time i have assembled everything and start the car the car was moving forward and backward smoothly but when turn left and right it was difficult ,car was not turnning properly.     
+
+SOLUTION OF ISSUES :
+(1) i turned car backwardly instide of turning it forwardly , for the "LEFT TURN" i run the left sided motors in backward direction and right sided motors in forward direction so here overall force get applied to get left turn and for the right turn i have used same method there i turn right sided motors in 
+
+(2) but still due long length of car i was facing same difficulty car was forcing to turn but not taking full turn htere i placed the wheels(with motors) from back side to the middle of the car and then i am getting more control on car and car was turning properly and smoothly.
+
+HOW TO BUILD THIS PROJECT OR HOW TO USE COMPONENTS INDIVIDUALLY?:
+we can use this whole project in two way ,  we can use this codes and guidance to build the same car and on the otherside we can use this codes to use different components individually 
+
+TO BUILD THIS SAME PROJECT: 
+(1) upload the "UNOL298N" code to the arduino UNO board 
+(2) upload the "ESP8266" code to the ESP8266 board 
+(3) connect the jumper wires as shown in image with ESP8266 , arduino uno , L298N , battery.
+(4) Install the "ESP8266 WiFi Robot Car" anddroid app from the playstore on your mobile phone
+(5) connect your mobile's wifi to the "ESP8266 CAR" named network.
+(6) now your are ready to control your car from your mobile phone.
+
+HOW TO USE THIS CODES INDIVIDUALLY FOR DIFEERENT USES :
