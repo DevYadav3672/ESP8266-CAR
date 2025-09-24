@@ -47,4 +47,7 @@ TO BUILD THIS SAME PROJECT:
 (5) connect your mobile's wifi to the "ESP8266 CAR" named network.
 (6) now your are ready to control your car from your mobile phone.
 
+HOW TO USE THIS CODES FOR INDIVIDUAL COMPONENTS :
+This project can mainly three side at one side we are communicating with ESP8266 board wireless with our mobile phone and on the second side we are controlling motors by arduino uno .
+
 HOW TO USE THIS CODES INDIVIDUALLY FOR DIFEERENT USES :
