@@ -36,7 +36,7 @@ SOLUTION OF ISSUES :
 
 (2) but still due long length of car i was facing same difficulty car was forcing to turn but not taking full turn htere i placed the wheels(with motors) from back side to the middle of the car and then i am getting more control on car and car was turning properly and smoothly.
 
-HOW TO BUILD THIS PROJECT OR HOW TO USE COMPONENTS INDIVIDUALLY?:
+HOW TO BUILD THIS PROJECT OR HOW TO USE COMPONENTS INDIVIDUALLY:
 we can use this whole project in two way ,  we can use this codes and guidance to build the same car and on the otherside we can use this codes to use different components individually 
 
 TO BUILD THIS SAME PROJECT: 
@@ -48,6 +48,10 @@ TO BUILD THIS SAME PROJECT:
 (6) now your are ready to control your car from your mobile phone.
 
 HOW TO USE THIS CODES FOR INDIVIDUAL COMPONENTS :
-This project can mainly three side at one side we are communicating with ESP8266 board wireless with our mobile phone and on the second side we are controlling motors by arduino uno .
+This project can mainly divided in three parts , firt part is to communicate with ESP8266 board from our mobile phone and  second side we part is to control motors by arduino uno or last part is to communicate between ESP8266 and Arduino UNO via serial communcation.
 
-HOW TO USE THIS CODES INDIVIDUALLY FOR DIFEERENT USES :
+HOW TO USE THIS Arduino CODE INDIVIDUALLY FOR DIFEERENT USES :
+if you want to use a bluetooth module or by another way , you can use this code to control 4 motors with two L298N by sending same signal as mentioned in code and connect the circuit as given in image.
+
+HOW TO USE ESP8266 CODE TO COMMUNICATE BETWEEN MOBILE AND ESP82666:
+Upload the "ESP8266L298N" named code on microcontroller board and connect your mobile phone with microcontroller's wifi and you can interchange data with ESP8266.
