@@ -40,6 +40,9 @@ SOLUTION OF ISSUES :
 (1) i turned car backwardly instide of turning it forwardly , for the "LEFT TURN" i run the left sided motors in backward direction and right sided motors in forward direction so here overall force get applied to get left turn and for the right turn i have used same method there i turn right sided motors in 
 
 (2) but still due long length of car i was facing same difficulty car was forcing to turn but not taking full turn htere i placed the wheels(with motors) from back side to the middle of the car and then i am getting more control on car and car was turning properly and smoothly.
+- ![LEFTVIEW](LEFTVIEW.jpg)
+- ![RIGHTVIEW](RIGHTVIEW.jpg)
+
 
 HOW TO BUILD THIS PROJECT OR HOW TO USE COMPONENTS INDIVIDUALLY:
 we can use this whole project in two way ,  we can use this codes and guidance to build the same car and on the otherside we can use this codes to use different components individually 
