@@ -26,6 +26,8 @@ COMPONENTS :
 - Battery: 12V Li-ion battery (power motors and Arduino)  
 - Mobile App: ESP8266 WiFi Robot Car
 
+- ![Back View](BACK VIEW.jpg)
+
   ISSUESS DURING THIS PROJECT :
 (1) i have not used any servo motors to turn the motor/wheel's direction it was a big issue becaues car was moving forward and backward but not taking turn.
 
