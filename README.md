@@ -5,9 +5,9 @@
 - secondly i have made learned how to control DC motors by L298N(motor driver).
 - also i learn how to send and recive data between ESP826 and arduino UNO by Serial communication.
  UNIQUENESS OF THIS PROJECT :
-- This car can also lift weight around 3-3.5kg also bcz i have used 500rpm dc motors with a metal chassis it can transpot the load also.
-  ![TOPVIEW](TOPVIEW.JPG)
+- This car can also lift weights around 3–3.5 kg because I have used 500 rpm DC motors with a metal chassis, so it can transport a load as well.
 
+![TOPVIEW](TOPVIEW.jpg)
 PROJECT OVEREVIEW :
 The ESP8266-CAR is an all-wheel drive robotic car controlled wirelessly via a mobile app. It demonstrates integration of Arduino Uno, ESP8266 WiFi module, and dual L298N motor drivers to create a fully controllable robotic vehicle. 
 
