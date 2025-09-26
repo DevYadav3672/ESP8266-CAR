@@ -51,6 +51,8 @@ TO BUILD THIS SAME PROJECT:
 (1) upload the "UNOL298N" code to the arduino UNO board 
 (2) upload the "ESP8266" code to the ESP8266 board 
 (3) connect the jumper wires as shown in image with ESP8266 , arduino uno , L298N , battery.
+- ![ESPCARDIAGRAM](ESPCARDIAGRAM.jpg)
+
 (4) Install the "ESP8266 WiFi Robot Car" anddroid app from the playstore on your mobile phone
 (5) connect your mobile's wifi to the "ESP8266 CAR" named network.
 (6) now your are ready to control your car from your mobile phone.
