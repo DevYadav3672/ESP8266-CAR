@@ -89,6 +89,6 @@ I built this as part of my **Electronics & Communication Engineering** journey a
 **Dev Yadav**  
 - B.Tech, Electronics & Communication Engineering  
 - Government Engineering College, Rajkot (GTU), Gujarat, India  
-- [Deev Yadav](#) | [devyadav3672@gmail.com](#)  
+- LINKEDIN : [Deev Yadav](#) | EMAIL : [devyadav3672@gmail.com](#)  
 
 
