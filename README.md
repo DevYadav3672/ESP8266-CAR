@@ -51,9 +51,9 @@ I built this as part of my **Electronics & Communication Engineering** journey a
 
 - **Issue:** Large chassis → difficult to take sharp turns.  
   - **Solution:** Adjusted motor placement closer to center for better turning radius.
- 
-![Right side view of wheels placement](RIGHTVIEW.JPG)
-![LEFT side view of wheels placement](LEFTVIEW.JPG)
+
+![Right side view of wheels placement](RIGHTVIEW.jpg)
+![LEFT side view of wheels placement](LEFTVIEW.jpg)
 
 
 
